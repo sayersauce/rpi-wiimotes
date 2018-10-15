@@ -1,5 +1,5 @@
 # Raspberry Pi WiiMotes
-A project centered on use/communication of Wii Remotes with raspberry pi. This repository includes projects where
+A project centered on use/communication of Wii Remotes with Raspberry Pis. This repository includes projects/scripts with communication between Raspberry Pis and Wii Remotes.
 </br>
 This project uses the library 'cwiid' for python. It is highly recommended to check out their GitHub repository: https://github.com/abstrakraft/cwiid
 </br>Although it is dead..
