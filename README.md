@@ -11,3 +11,5 @@ Most files have comments at the top explaining what they do.
 Free to use and distribute. As of 2018.
 </br>
 Author: Max Sayer (c).
+</br>
+http://sayer.ninja
